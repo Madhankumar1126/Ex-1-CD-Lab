@@ -68,7 +68,10 @@ int main() {
 ```
 # OUTPUT:
 
-![WhatsApp Image 2025-09-15 at 10 46 34_87908bfe](https://github.com/user-attachments/assets/789cb91f-9466-4bbf-87ca-6e0618942b13)
+<img width="822" height="477" alt="image" src="https://github.com/user-attachments/assets/005fc7bd-80e2-466f-b3fa-3cbe524e09fa" />
+
+<img width="756" height="483" alt="image" src="https://github.com/user-attachments/assets/0558ae8c-33b1-469a-8dcc-9570ecbc5c6f" />
+
 
 # RESULT:
 
